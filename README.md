@@ -1,4 +1,4 @@
-### Hi there I'm Alisha Khan
+### Hi there ![hi-wave](https://user-images.githubusercontent.com/109518128/179574569-23f230f6-964e-4dae-b004-4a4237562dc3.gif) I'm Alisha Khan
 
 Currently, I'm pursuing graduation. Apart from this, I'm interested to learn programming languages and become a full-stack developer. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
 
