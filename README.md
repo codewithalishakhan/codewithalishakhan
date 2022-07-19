@@ -30,7 +30,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/Alisha Khan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href ="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 
