@@ -18,3 +18,5 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithalishakhan)](https://github.com/anuraghazra/github-readme-stats)
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
