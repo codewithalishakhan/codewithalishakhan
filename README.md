@@ -59,6 +59,10 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 </details>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithalishakhan&theme=tokyonight)
+
+
+
 
 
 
