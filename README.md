@@ -36,7 +36,6 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
  
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
