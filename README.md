@@ -52,7 +52,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 
 ### :fire: My Streak :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codewithalishakhan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithalishakhan&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
 
 📈  Most used languages
 
