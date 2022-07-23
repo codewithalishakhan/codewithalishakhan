@@ -14,7 +14,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 <br>
 
-## About Me:-
+### :woman_technologist: About Me :
 - 🔭 I’m currently pursuing graduation.
 - 🌱 I’m currently learning programming from free resources.
 - 😄 Pronouns: She/Her.
