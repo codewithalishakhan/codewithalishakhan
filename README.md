@@ -26,8 +26,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 
 
-## Connect with me:
-
+## ✉️ Find me on:
 <p align="left">
 
 <a href ="https://www.linkedin.com/in/alisha-khan-10a881245"/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -36,8 +35,8 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 
 </p>
-<h3 align="left">Languages and Tools:</h3>
- 
+
+## 🧰 Languages and Tools:
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
  
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -46,19 +45,29 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  
+ 
+ ### :fire: My Github Stats :
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithalishakhan&show_icons=true&theme=tokyonight)
+
+
+### :fire: My Streak :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codewithalishakhan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+📈  Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithalishakhan&theme=tokyonight)
+
+ 
 
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codewithalishakhan&show_icons=true&hide_border=true" />
-
-</details>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithalishakhan&theme=tokyonight)
+
+
+
 
 
 
