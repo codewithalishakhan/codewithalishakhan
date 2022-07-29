@@ -17,7 +17,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 
 <div>
-<img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="300px">
+<img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
 
 ### :woman_technologist: About Me  :
 
@@ -34,7 +34,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 </div>
 
-
+<div>
 
 
 ## ✉️ Find me on:
@@ -42,10 +42,8 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 <a href ="https://www.linkedin.com/in/alisha-khan-10a881245"/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-
-
-
 </p>
+</div>
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -78,10 +76,9 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-
-<img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 400px>
-
+<p align= "center">
+<img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 400px>
+</p>
 
 
 
