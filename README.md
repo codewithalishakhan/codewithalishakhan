@@ -1,28 +1,33 @@
+<!--STARING LOGO-->
+
 <p align="center">
  <img  alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="320" width="500px" />
  </p>
+
+<!--MIDDLE HAND GIF AND NAME-->
 
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alisha Khan</h1>
 
 <h2 align="center">Student</h2>
 
+
+<!--ABOUT SECTION-->
+
+
 <div>
- 
 
 Currently, I'm pursuing graduation. Apart from this, I'm interested to learn programming languages and become a full-stack developer. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
-
 </div>
 <br>
+
+<!--ABOUT ME AND HIS SIDE GIF-->
 
 
 <div>
 <img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
 
 ### :woman_technologist: About Me  :
-
-
-
 
 
 - 🔭 I’m currently pursuing graduation.
@@ -34,7 +39,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
 </div>
 
-
+<!--FIND ME SECTION-->
 
 <div>
 ## ✉️ Find me on:
@@ -46,7 +51,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 </div>
 
 
-
+<!--LANGUAGE SECTION->
 
 
 ## 🧰 Languages and Tools:
@@ -60,14 +65,20 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  </p>
  
+ <!--STACT SECTION-->
  
  ### :fire: My Github Stats :
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithalishakhan&show_icons=true&theme=tokyonight)
 
 
+<!--STREAK SECTION-->
+
 ### :fire: My Streak :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithalishakhan&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
 
 📈  Most used languages
 
@@ -77,8 +88,12 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 
  
 
+<!--GRAPH SECTION--/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Alisha Khan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/codewithalishakhan/github-readme-activity-graph"><img alt="Alisha Khan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+<!--ANOTHER GIF-->
 
 <p align= "center">
 <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 400px>
