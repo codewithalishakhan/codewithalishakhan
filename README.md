@@ -75,7 +75,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 <!--STREAK SECTION-->
 
 ### :fire: My Streak :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithalishakhan&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 
