@@ -51,7 +51,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 </div>
 
 
-<!--LANGUAGE SECTION->
+<!--LANGUAGE SECTION-->
 
 
 ## 🧰 Languages and Tools:
@@ -100,7 +100,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 <p align= "center">
 <img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 400px>
 </p>
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+
 
 
 
