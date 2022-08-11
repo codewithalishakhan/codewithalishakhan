@@ -22,7 +22,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 <br>
 
 <!--ABOUT ME AND HIS SIDE GIF-->
-
+<a href="https://github.com/codewithalishakhan/github-readme-activity-graph"><img alt="Alisha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codewithalishakhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <div>
 <img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
