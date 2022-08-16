@@ -6,8 +6,7 @@
 
 <!--MIDDLE HAND GIF AND NAME-->
 
-
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> I'm Alisha Khan</h1>
+<h1 align="center"> Hey! <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="50px" height="60px">  I'm Alisha Khan</h1>
 
 <h2 align="center">Student</h2>
 
