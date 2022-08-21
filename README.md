@@ -6,7 +6,8 @@
 
 <!--MIDDLE HAND GIF AND NAME-->
 
-<h1 align="center"> Hey!  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  I'm Alisha Khan</h1>
+<h1 align="center"> Hey!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Alisha Khan</h1>
 
 <h2 align="center">Student</h2>
 
