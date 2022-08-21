@@ -26,7 +26,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 <div>
 <img align="right"src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="400px" height="250px">
 
-### :woman_technologist: About Me  :
+### <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40px" height="40px"> About Me  :
 
 
 - 🔭 I’m currently pursuing graduation.
