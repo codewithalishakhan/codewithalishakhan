@@ -33,7 +33,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 - 🔭 I’m currently pursuing graduation.
 - 🌱 I’m currently learning programming from free resources.
 - 😄 Pronouns: She/Her.
--  💬 Ask me about *html,css,bootstrap,javascript*
+-  💬 Ask me about *html,css,bootstrap,javascript,Nodejs,Mongodb*
 - ⚡ Fun fact:I'm kinda awesome.
 - 📫 How to reach me **alishakhannahid@gmail.com**
 
