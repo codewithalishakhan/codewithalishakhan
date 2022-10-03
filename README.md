@@ -64,6 +64,9 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+ 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Nodejs/Nodejs-original.svg" alt="javascript" width="45" height="45" />
+
 
  
  </p>
