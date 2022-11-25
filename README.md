@@ -17,7 +17,7 @@
 
 <div>
 
-Currently, I'm pursuing graduation. Apart from this, I'm interested to learn programming languages and become a full-stack developer. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
+Currently, I'm learning Full stack web developer from Masai. Apart from this, I'm interested to learn programming languages and become a full-stack developer. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.
 </div>
 <br>
 
@@ -30,7 +30,7 @@ Currently, I'm pursuing graduation. Apart from this, I'm interested to learn pro
 ### <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40px" height="40px"> About Me  :
 
 
-- 🔭 I’m currently pursuing graduation.
+- 🔭 I’m currently pursuing MERN.
 - 🌱 I’m currently learning programming from free resources.
 - 😄 Pronouns: She/Her.
 -  💬 Ask me about *html,css,bootstrap,javascript,Nodejs,Mongodb*
