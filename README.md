@@ -31,7 +31,7 @@ Currently, I'm learning Full stack web developer from Masai. Apart from this, I'
 
 
 - 🔭 I’m currently pursuing MERN.
-- 🌱 I’m currently learning programming from free resources.
+<!-- - 🌱 I’m currently learning programming from free resources. -->
 - 😄 Pronouns: She/Her.
 -  💬 Ask me about *html,css,bootstrap,javascript,Nodejs,Mongodb*
 - ⚡ Fun fact:I'm kinda awesome.
