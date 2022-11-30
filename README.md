@@ -35,7 +35,7 @@ Currently, I'm learning Full stack web developer from Masai. Apart from this, I'
 - 😄 Pronouns: She/Her.
 -  💬 Ask me about *html,css,bootstrap,javascript,Nodejs,Mongodb*
 - ⚡ Fun fact:I'm kinda awesome.
-- 📫 How to reach me **alishakhannahid@gmail.com**
+- 📫 How to reach me **krozy5954@gmail.com**
 
 </div>
 
