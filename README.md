@@ -30,7 +30,7 @@ Currently, I'm learning Full stack web developer from Masai. Apart from this, I'
 ### <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40px" height="40px"> About Me  :
 
 
-- 🔭 I’m currently pursuing MERN.
+- 🔭 I’m currently pursuing MERN stack course from Masai.
 <!-- - 🌱 I’m currently learning programming from free resources. -->
 - 😄 Pronouns: She/Her.
 -  💬 Ask me about *html,css,bootstrap,javascript,Nodejs,Mongodb*
