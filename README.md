@@ -91,11 +91,11 @@ Currently, I'm learning Full stack web developer from Masai. Apart from this,-->
 
 
 
-
-
-📈  Most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithalishakhan&theme=tokyonight)
+### <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>  Github Profile Trophy :
+<br>
+  <p align="left" dir="auto">
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithalishakhan&theme=onedark">
+</details>
 
 
 
