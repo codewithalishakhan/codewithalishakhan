@@ -18,7 +18,7 @@
 <div>
 <!-- 
 Currently, I'm learning Full stack web developer from Masai. Apart from this,-->
- I'm interested to learn programming languages and become a full-stack developer. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. -->
+ Enthusiastic fresher aspiring to become a Data Analyst. Skilled in data manipulation, visualization, and statistical analysis. Ready to apply my knowledge and passion for data to contribute effectively to the organization's success.. I'm outgoing and dedicated. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time. -->
 </div>
 <br>
 
