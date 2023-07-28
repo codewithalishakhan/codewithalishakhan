@@ -41,13 +41,15 @@ Currently, I'm learning Full stack web developer from Masai. Apart from this,-->
   
 - 📫 How to reach me **alishakhannahid@gmail.com**
 
-- ✉️ Find me on : [LinkedIn](https://www.linkedin.com/in/alishakhan04/)
+- Find me on : 
+
+
 </div>
 
 <!--FIND ME SECTION-->
 
 <div>
-##
+
 <p align="left">
 
 <a href ="https://www.linkedin.com/in/alisha-khan-10a881245"/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
