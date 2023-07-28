@@ -9,7 +9,7 @@
 <h1 align="center"> Hey!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Alisha Khan</h1>
 
-<h2 align="center">Student</h2>
+<h2 align="center">I'm an aspiring Data Analyst</h2>
 
 
 <!--ABOUT SECTION-->
@@ -31,19 +31,23 @@ Currently, I'm learning Full stack web developer from Masai. Apart from this,-->
 ### <img src="https://c.tenor.com/p2Fs2DoSLWYAAAAC/hello-cute.gif" width="40px" height="40px"> About Me  :
 
 
--<!-- - 🔭 I’m currently pursuing MERN stack course from Masai. -->
- 🌱 I’m currently learning programming from free resources.
-- 😄 Pronouns: She/Her.
--  💬 Ask me about *html,css,bootstrap,javascript,Nodejs,Mongodb*
-- ⚡ Fun fact:I'm kinda awesome.
-- 📫 How to reach me **krozy5954@gmail.com**
+- 🔭 I’m currently working on **Analytical Skills**
+  
+- 🌱  I’m currently learning **Data Science and Analytics.**
 
+ -  Pronouns: She/Her.
+<!---  💬 Ask me about *Python,Excel,*-->
+- ⚡ Fun fact: I'm kinda awesome.
+  
+- 📫 How to reach me **alishakhannahid@gmail.com**
+
+- ✉️ Find me on : [LinkedIn](https://www.linkedin.com/in/alishakhan04/)
 </div>
 
 <!--FIND ME SECTION-->
 
 <div>
-## ✉️ Find me on:
+##
 <p align="left">
 
 <a href ="https://www.linkedin.com/in/alisha-khan-10a881245"/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
